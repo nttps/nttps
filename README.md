@@ -2,6 +2,8 @@
 
 My name is **Team**
 
-[![nttps's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nttps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nttps)](https://github.com/nttps)
 
-[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nttps)](https://github.com/nttps)
+
+[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true)](https://github.com/nttps)
