@@ -7,7 +7,3 @@ My name is **Team**
 [![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/nttps)
 
 [![nttps's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps&theme=onedark&layout=compact)](https://github.com/nttps)
-
-[![nttps's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps&theme=onedark)](https://github.com/nttps)
-
-
