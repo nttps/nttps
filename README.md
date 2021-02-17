@@ -6,8 +6,7 @@ My name is **Team**
 
 **Tools:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nttps&show_icons=true&theme=dracula)](https://github.com/nttps)
-
-[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/nttps)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nttps&show_icons=true&theme=dracula&layout=compact&hide_border=true)](https://github.com/nttps)
+[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true&show_icons=true&theme=dracula&hide=issues&hide_border=true&count_private=true)](https://github.com/nttps)
 
 [![nttps's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps&theme=onedark&layout=compact)](https://github.com/nttps)
