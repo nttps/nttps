@@ -3,7 +3,7 @@
 My name is **Team**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nttps)](https://github.com/nttps)
-
+[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true)](https://github.com/nttps)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps)](https://github.com/nttps)
 
-[![nttps's github stats](https://github-readme-stats.vercel.app/api?username=nttps&include_all_commits=true)](https://github.com/nttps)
+
