@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=c0c0c0&height=200&section=header&text=Hi%20there%20👋&fontSize=50&fontColor=0049bf&animation=twinkling&fontAlign=80&fontAlignY=20&rotate=370)
+![header](https://capsule-render.vercel.app/api?type=slice&color=c0c0c0&height=150&section=header&text=Hi%20there%20👋&fontSize=50&fontColor=0049bf&animation=twinkling&fontAlign=80&fontAlignY=20&rotate=370)
 
 My name is **Team**
 
