@@ -25,7 +25,7 @@ My name is **Team**
 
 **Editor:**
 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="mariadb" width="70" height="70"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="mariadb" width="70" height="70"/> </a>
 
 
 [![nttps's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps&theme=onedark&layout=compact)](https://github.com/nttps)
