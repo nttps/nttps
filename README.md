@@ -23,6 +23,9 @@ My name is **Team**
 
 <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mariadb.svg" alt="mariadb" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite" width="70" height="70"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.svgporn.com/logos/bash.svg" alt="bash" width="70" height="70"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/docker.svg" alt="docker" width="70" height="70"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="70" height="70"/> </a>
 
+**Editor:**
+
+<a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="mariadb" width="70" height="70"/> </a>
 
 
 [![nttps's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nttps&theme=onedark&layout=compact)](https://github.com/nttps)
